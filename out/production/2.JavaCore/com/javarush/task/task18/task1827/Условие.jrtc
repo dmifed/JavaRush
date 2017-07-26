@@ -1,0 +1,21 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1827">
+<h3>Прайсы</h3>
+<p><strong>CrUD</strong> для таблицы внутри файла.<br />
+Считать с консоли имя файла для операций CrUD.</p>
+<p><strong>Программа запускается со следующим набором параметров:</strong><br />
+<span class="text-neon">-c productName price quantity</span></p>
+<p><strong>Значения параметров:</strong><br />
+где <mark class="user">id</mark> &#8212; <span class="text-user"><strong>8</strong></span> символов.<br />
+<mark class="user">productName</mark> &#8212; название товара, <strong>30 chars (60 bytes)</strong>.<br />
+<mark class="user">price</mark> &#8212; цена, <span class="text-user"><strong>8</strong></span> символов.<br />
+<mark class="user">quantity</mark> &#8212; количество, <span class="text-user"><strong>4</strong></span> символа.<br />
+<mark class="user">-c</mark> &#8212; добавляет товар с заданными параметрами в конец файла, генерирует <strong>id</strong> самостоятельно, инкрементируя максимальный <strong>id</strong>, найденный в файле.</p>
+<p>В файле данные хранятся в следующей последовательности (без разделяющих пробелов):<br />
+<span class="text-neon">id productName price quantity</span></p>
+<p>Данные дополнены пробелами до их длины.</p>
+<p><strong>Пример:</strong><br />
+<code>19846 Шорты пляжные синие 159.00 12<br />
+198478 Шорты пляжные черные с рисунко173.00 17<br />
+19847983Куртка для сноубордистов, разм10173.991234</code></p>
+
+</div>
