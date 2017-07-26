@@ -35,12 +35,9 @@
       <file leaf-file-name="TestGit.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestGit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1082,12 +1079,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestGit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
