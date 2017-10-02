@@ -12,21 +12,31 @@ public class Human implements Alive{
     protected String name;
     //protected int course;
 
-    protected int[] size;
+    protected Size size;
 
     //protected boolean isSoldier;
 
-    public static final int FIRST = 1;
-    public static final int SECOND = 2;
-    public static final int THIRD = 3;
-    public static final int FOURTH = 4;
-    private int bloodGroup;
+    //public static final int FIRST = 1;
+    //public static final int SECOND = 2;
+    //public static final int THIRD = 3;
+    //public static final int FOURTH = 4;
+    private BloodGroup bloodGroup;
 
     public void setBloodGroup(int code) {
-        bloodGroup = code;
+        switch (code){
+            case 1: BloodGroup.first();
+                break;
+            case 2: BloodGroup.second();
+                break;
+            case 3: BloodGroup.third();
+                break;
+            case 4: BloodGroup.fourth();
+                break;
+        }
+
     }
 
-    public int getBloodGroup() {
+    public BloodGroup getBloodGroup() {
         return bloodGroup;
     }
 
@@ -59,15 +69,18 @@ public class Human implements Alive{
         return id;
     }
 
-    //public void setId(int id) {        this.id = id;    }
-
     public void printSize() {
-        System.out.println("Рост: " + size[0] + " Вес: " + size[1]);
+        System.out.println("Рост: " + size.height + " Вес: " + size.weight);
     }
 
     public String getPosition(){return "Человек";}
 
     public void printData() {
         System.out.println(getPosition()+ ": " + name);
+    }
+
+    public class Size {
+        private int height;
+        private int weight;
     }
 }
