@@ -21,19 +21,24 @@ public class Human implements Alive{
     //public static final int THIRD = 3;
     //public static final int FOURTH = 4;
     private BloodGroup bloodGroup;
-
+/*
     public void setBloodGroup(int code) {
         switch (code){
-            case 1: BloodGroup.first();
+            case 1: bloodGroup = BloodGroup.first();
                 break;
-            case 2: BloodGroup.second();
+            case 2: bloodGroup = BloodGroup.second();
                 break;
-            case 3: BloodGroup.third();
+            case 3: bloodGroup = BloodGroup.third();
                 break;
-            case 4: BloodGroup.fourth();
+            case 4: bloodGroup = BloodGroup.fourth();
                 break;
         }
 
+    }
+*/
+
+    public void setBloodGroup(BloodGroup bloodGroup) {
+        this.bloodGroup = bloodGroup;
     }
 
     public BloodGroup getBloodGroup() {
@@ -80,7 +85,7 @@ public class Human implements Alive{
     }
 
     public class Size {
-        private int height;
-        private int weight;
+        public int height;
+        public int weight;
     }
 }
