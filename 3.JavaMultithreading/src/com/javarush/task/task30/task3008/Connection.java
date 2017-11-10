@@ -22,7 +22,6 @@ public class Connection implements Closeable{
         synchronized (out){
             out.writeObject(message);
         }
-
     }
 
     public Message receive() throws IOException, ClassNotFoundException{
