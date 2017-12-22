@@ -8,6 +8,7 @@ import java.util.Set;
  * Created by DIMA on 10.11.2017.
  */
 public class ClientGuiModel {
+
     private final Set<String> allUserNames = new HashSet<>();
     private String newMessage;
 
@@ -30,4 +31,5 @@ public class ClientGuiModel {
     public void deleteUser(String userName){
         allUserNames.remove(userName);
     }
+
 }

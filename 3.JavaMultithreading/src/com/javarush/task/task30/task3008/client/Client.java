@@ -154,6 +154,7 @@ public class Client {
 
             }catch (IOException e){
                 notifyConnectionStatusChanged(false);
+                //System.out.println("socket exception " + e.getMessage() + "   " + e.getCause());
             }catch (ClassNotFoundException e){
                 notifyConnectionStatusChanged(false);
             }

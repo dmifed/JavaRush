@@ -4,8 +4,9 @@ package com.javarush.task.task30.task3008.client;
  * Created by DIMA on 10.11.2017.
  */
 public class ClientGuiController extends Client {
-    private ClientGuiModel clientGuiModel = new ClientGuiModel();
-    private ClientGuiView clientGuiView = new ClientGuiView(this);
+
+    private ClientGuiModel model = new ClientGuiModel();
+    private ClientGuiView view = new ClientGuiView(this);
 
     @Override
     protected SocketThread getSocketThread() {
@@ -22,24 +23,24 @@ public class ClientGuiController extends Client {
 
     @Override
     protected String getServerAddress() {
-        return clientGuiView.getServerAddress();
+        return view.getServerAddress();
         //return super.getServerAddress();
     }
 
     @Override
     protected int getServerPort() {
-        return clientGuiView.getServerPort();
+        return view.getServerPort();
         //return super.getServerPort();
     }
 
     @Override
     protected String getUserName() {
-        return clientGuiView.getUserName();
+        return view.getUserName();
         //return super.getUserName();
     }
 
     public ClientGuiModel getModel() {
-        return clientGuiModel;
+        return model;
     }
 
     public static void main(String[] args) {
@@ -50,29 +51,30 @@ public class ClientGuiController extends Client {
     public class GuiSocketThread extends SocketThread{
         @Override
         protected void processIncomingMessage(String message) {
-            clientGuiModel.setNewMessage(message);
-            clientGuiView.refreshMessages();
-            //super.processIncomingMessage(message);
+            model.setNewMessage(message);
+            view.refreshMessages();
+            super.processIncomingMessage(message);
         }
 
         @Override
         protected void informAboutAddingNewUser(String userName) {
-            clientGuiModel.addUser(userName);
-            clientGuiView.refreshUsers();
-            //super.informAboutAddingNewUser(userName);
+            model.addUser(userName);
+            view.refreshUsers();
+            super.informAboutAddingNewUser(userName);
         }
 
         @Override
         protected void informAboutDeletingNewUser(String userName) {
-            clientGuiModel.deleteUser(userName);
-            clientGuiView.refreshUsers();
-            //super.informAboutDeletingNewUser(userName);
+            model.deleteUser(userName);
+            view.refreshUsers();
+            super.informAboutDeletingNewUser(userName);
         }
 
         @Override
         protected void notifyConnectionStatusChanged(boolean clientConnected) {
-            clientGuiView.notifyConnectionStatusChanged(clientConnected);
-            //super.notifyConnectionStatusChanged(clientConnected);
+            view.notifyConnectionStatusChanged(clientConnected);
+            super.notifyConnectionStatusChanged(clientConnected);
         }
     }
+
 }
