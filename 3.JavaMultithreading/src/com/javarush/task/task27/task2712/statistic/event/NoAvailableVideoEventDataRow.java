@@ -1,0 +1,29 @@
+package com.javarush.task.task27.task2712.statistic.event;
+
+import com.javarush.task.task27.task2712.statistic.StatisticManager;
+
+import java.util.Date;
+
+/**
+ * Created by DIMA on 02.02.2018.
+ */
+public class NoAvailableVideoEventDataRow implements EventDataRow{
+    private int totalDuration; //время приготовления заказа в секундах
+    private Date currentDate;
+    public NoAvailableVideoEventDataRow(int totalDuration){
+        this.totalDuration = totalDuration;
+        this.currentDate = new Date();
+        //StatisticManager statisticManager = StatisticManager.getInstance();
+    }
+
+    @Override
+    public EventType getType() {
+        return EventType.NO_AVAILABLE_VIDEO;
+    }
+
+    @Override
+    public Date getDate() {        return currentDate;    }
+
+    @Override
+    public int getTime() {         return totalDuration;    }
+}
