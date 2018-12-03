@@ -2,294 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ConsoleHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/DirectorTablet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/RandomOrderGeneratorTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Tablet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/Advertisement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/NoVideoAvailableException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/StatisticAdvertisementManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/TestOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Waiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/statistic/StatisticManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/statistic/event/CookedOrderEventDataRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/statistic/event/EventDataRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/statistic/event/EventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/statistic/event/NoAvailableVideoEventDataRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/statistic/event/VideoSelectedEventDataRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2912/AbstractLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2913/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3003/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3003/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3004/BinaryRepresentationTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/HTMLFileFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/UndoListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/MoveEfficiency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/AdvertisementManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/AdvertisementManager2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/CompareDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/CompareInfinity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/ForEachAnd2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/LongAndDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/MathRandomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/ReturnFromTryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestAddToList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestEndsWithIgnoredCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestEqualsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestListRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestRound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestSortComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/TestTask3513.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/CustomInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyperskill/Hyperskill.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyperskill/src/linearEquationsSolver/SimpleEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyperskill/src/linearEquationsSolver/SystemWithTwoVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyperskill/src/linearEquationsSolver/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/StepikAdaptive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Anagrams162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/ArithmeticAverage133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/AverageValue151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/BadWordsDetecting349.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/CalculatingFactorial351.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/CalculatingProductionOfAllNumbersInTheRange338.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/CheckingPrime348.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/ChessBoard1164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Cinema1126.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/CollatzConjecture1146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/CollectorsInPracticePartitioningWordsIntoGroups357.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/ComposingPredicates345.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/CreateTreeMap3114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/CurryingFunctions362.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/CyclicallyShift1160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Decompositions1145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/DerivativePolynomial1153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Desck17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/DifferenceOfTimes15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/DifferentNumbersInList1140.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/DigitOrNot177.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/DigitalWatches16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Distance132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/DoubleFactorial1147.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/ExitMain3133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/ExitMain3134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/FibonacciNumber1157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/FindNumber1148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/FirstDigitOfTwoDigitNumber111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/FizzBuzz142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/FootballTeams1138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Fractional129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/FractionalPart128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/FrequencyOfNumber183.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/FromPythonToJavaCode159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/FromRomanIntoDecimal1154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/GeneralNumberOfEmployees353/CountingEmploees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/GeneralNumberOfEmployees353/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/GeneralNumberOfEmployees353/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/GettingDistinctStrings339.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Greeting168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/HashSet313.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/HealthySleep120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/HeronFormula127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/InterpreterMathematicalExpression1149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Interval119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/IpAdress172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Iterator319.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LCDСalculator1152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LargestElementOfSequence148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LeapYear115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LengthOfSequence147.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LineWithIntegers1117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LinkedList311.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/List1116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/List1118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/List39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LoginAndPassword174.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LongestIncreasingSubsequences185New3Iterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LongestWord157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/LuckyTicket154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MKAD14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MakeCodeThreadSafe3138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MapsBypassing3115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MatrixDiagonal1124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MaximumElementDivisibleBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MaximumElementInMatrix1123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MaximumPairwiseProduct1120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MilitaryUnit1107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Minesweeper1155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MultifunctionalMapper363.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/MultiplicationTable134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/NextEvenNumber18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/NthPower1144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/NumberOfTens110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/NumbersFiltering350.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/OneHundredYearsOld164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/PairwiseDifferentSummands182.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Palindrome158.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/PercentageGandCcharacters155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/PhoneNumber1151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Pie136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/PolygonalCurve199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/PositiveNumber125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/PowersOfTwo145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/QuadraticEquation131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Queue3112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/RandomStringOfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/RelativelyPrimeNumbers1158.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/RepeatedValues1119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Replacement171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Reversing112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/RotateRectangleArray1129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/RunLengthEncoding1114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SameLine167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SecondWord1162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Sequence149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SequenceReversal170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SetOfStrings1105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SetsCreating3105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Shape122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SizeOfParts13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Skyscraper1143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SmallParser1122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SmallestInteger1159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Snail13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SortSequence1100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SortTimeMoments1106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Sorting1102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SpanishLatinDictionary1167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SpellChecker1136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Spiral1131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SquaresOfNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SquirrelsAndNuts11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SquirrelsAndNuts12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/StarFigure1125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/StartThread3121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SubmatrixSum192.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SubstitutionCipher1137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SumOddNumbers352.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SumOfDigits19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SumOfElements144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SumOfInteger137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SumOfNumbers1142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SumOfNumbersDdivisibleBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SumTwoNeighbouringNumbers1115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SwapColumns1130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SwimmingPool117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SymmetricDifferenceOfSets1139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/SymmetricalNumber124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/ThreadSafe3136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Transposing1133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/TranspositionMatrix1127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/TreeSet316.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Treemap325.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Triangle118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Turtle1135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/UnitsOfMeasurement161.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/UppercaseOnlyLatin176.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/ValueOfFunction1141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/WarAndPeace1134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/Wildcards374.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/almostLikeASql358/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/almostLikeASql358/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/almostLikeASql358/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/almostLikeASql359/LogEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/almostLikeASql359/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/behaviourParametrizationWithLambda3170/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/behaviourParametrizationWithLambda3170/BehaviourParametrizationWithLambda3170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/chainOfResponsibilityPatternInTheFunctionalStyle3172/ChainOfResponsibilityPatternInTheFunctionalStyle3172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/collectorsInPracticeTheProductOfSquares356/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/floorspaceOfTheRoom121/CountSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/grades138/CountingGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/grades160/CalculatePercentGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/listsBigDeal3103/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/optionalInAction3176/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/optionalInAction3176/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/optionalInAction3176/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/others/FlatMapTogetherWithStreamCreating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/others/NumberUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/others/ParallelFilteringOfPrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/ownFunctionalInterface343/TernaryIntPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/ownFunctionalInterface343/UseTernaryIntPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/primeFactorization1165/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/theTotalSumOfCanceledTransactions354/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/theTotalSumOfCanceledTransactions354/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/theTotalSumOfCanceledTransactions354/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/theTotalSumOfCanceledTransactions354/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/tooManyArguments337/SevenArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/tooManyArguments337/SevenArgsImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/typeValidator384/Bakery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/typeValidator384/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/typeValidator384/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/typeValidator384/NaiveQualityControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/typeValidator384/Paper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/typeValidator384/Violator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StepikAdaptive/src/СompressionAlgorithm156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/CollectionTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/SumIntAndBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/TestAbsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/TestChangeObjectInList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/TestEqualsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/TetsInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/lambdaTests/CallingInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/lambdaTests/FunctionalMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/lambdaTests/FunctionalMethodsWithInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/otherTest/TestIsnistanceAndObjectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/proxy/ProxyTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/src/zipStream/ZipStream01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StepikAdaptive/StepikAdaptive1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/RedoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/RedoAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/StrikeThroughAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/StrikeThroughAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/SubscriptAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/SubscriptAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/SuperscriptAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/SuperscriptAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/UndoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/actions/UndoAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/TextEditMenuListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/TextEditMenuListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/tests/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1810/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1810/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1811/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1811/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1815/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1815/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1816/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1816/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1901/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1901/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1903/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1903/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1904/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1904/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1905/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1905/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1916/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1916/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1927/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1927/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2001/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2001/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2002/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2002/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2002/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2002/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2003/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2003/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2011/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2011/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2016/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2016/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2017/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2017/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2018/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2018/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2020/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2020/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2021/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2021/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2023/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2023/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2027/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2027/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/tests/NasledovanieAndModificators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/tests/NasledovanieAndModificators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/tests/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/tests/A.class" afterDir="false" />
     </list>
     <ignored path="JavaRushTasks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -309,7 +23,17 @@
     <favorites_list name="JavaRushTasks" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="SimpleEquation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hyperskill/src/linearEquationsSolver/SimpleEquation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="27" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -404,7 +128,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1592" />
     <option name="height" value="866" />
   </component>
@@ -418,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -450,6 +173,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -458,17 +182,16 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StepikAdaptive" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.javarush.task.task30.task3004" />
-      <recent name="com.javarush.task.task30.task3003" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -476,8 +199,9 @@
       <recent name="com.javarush.task.task32.task3209.actions" />
       <recent name="com.javarush.task.task36.task3608.view" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.task.task30.task3004" />
+      <recent name="com.javarush.task.task30.task3003" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -780,7 +504,10 @@
       <workItem from="1543493984060" duration="1299000" />
       <workItem from="1543496858215" duration="1173000" />
       <workItem from="1543565441403" duration="886000" />
-      <workItem from="1543832590371" duration="320000" />
+      <workItem from="1543832590371" duration="2284000" />
+      <workItem from="1543835864226" duration="1437000" />
+      <workItem from="1543838706367" duration="24000" />
+      <workItem from="1543838926898" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="My test commit 02 10 2017">
       <created>1506950245071</created>
@@ -838,11 +565,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513960457338</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="My commit 03 12 2018 14:30">
+      <created>1543833099172</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543833099172</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="531521000" />
+    <option name="totallyTimeSpent" value="535007000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -927,7 +661,8 @@
     <MESSAGE value="My commit 03 11 2017 20:30" />
     <MESSAGE value="My commit 10 11 2017 21:00" />
     <MESSAGE value="My commit 22 12 2017 20:30" />
-    <option name="LAST_COMMIT_MESSAGE" value="My commit 22 12 2017 20:30" />
+    <MESSAGE value="My commit 03 12 2018 14:30" />
+    <option name="LAST_COMMIT_MESSAGE" value="My commit 03 12 2018 14:30" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1285,17 +1020,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hyperskill/src/linearEquationsSolver/SimpleEquation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="473" column="20" selection-start-line="473" selection-start-column="20" selection-end-line="473" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hyperskill/src/linearEquationsSolver/SimpleEquation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="27" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1362,7 +1097,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>1.JavaSyntax</last-edited>
+          <last-edited>StepikAdaptive</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
